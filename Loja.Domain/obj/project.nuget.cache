@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VgxjvLsKcL0N3U9ypLIr1ePpxEuRZFzRJ0O5rJPEde5Uwh7nkWBNAoi/VqAvaaxjhRcw38+woeAiIcEm3x3ZEA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AAIO\\My Private Documents\\Curso-MVC\\ProjetoTeste\\Loja.Domain\\Loja.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AAIO\\.nuget\\packages\\flunt\\1.0.5\\flunt.1.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

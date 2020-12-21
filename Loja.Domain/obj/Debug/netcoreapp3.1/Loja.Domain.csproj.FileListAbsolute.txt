@@ -1,0 +1,9 @@
+C:\Users\AAIO\My Private Documents\Curso-MVC\ProjetoTeste\Loja.Domain\bin\Debug\netcoreapp3.1\Loja.Domain.deps.json
+C:\Users\AAIO\My Private Documents\Curso-MVC\ProjetoTeste\Loja.Domain\bin\Debug\netcoreapp3.1\Loja.Domain.dll
+C:\Users\AAIO\My Private Documents\Curso-MVC\ProjetoTeste\Loja.Domain\bin\Debug\netcoreapp3.1\Loja.Domain.pdb
+C:\Users\AAIO\My Private Documents\Curso-MVC\ProjetoTeste\Loja.Domain\obj\Debug\netcoreapp3.1\Loja.Domain.csprojAssemblyReference.cache
+C:\Users\AAIO\My Private Documents\Curso-MVC\ProjetoTeste\Loja.Domain\obj\Debug\netcoreapp3.1\Loja.Domain.AssemblyInfoInputs.cache
+C:\Users\AAIO\My Private Documents\Curso-MVC\ProjetoTeste\Loja.Domain\obj\Debug\netcoreapp3.1\Loja.Domain.AssemblyInfo.cs
+C:\Users\AAIO\My Private Documents\Curso-MVC\ProjetoTeste\Loja.Domain\obj\Debug\netcoreapp3.1\Loja.Domain.csproj.CoreCompileInputs.cache
+C:\Users\AAIO\My Private Documents\Curso-MVC\ProjetoTeste\Loja.Domain\obj\Debug\netcoreapp3.1\Loja.Domain.dll
+C:\Users\AAIO\My Private Documents\Curso-MVC\ProjetoTeste\Loja.Domain\obj\Debug\netcoreapp3.1\Loja.Domain.pdb
